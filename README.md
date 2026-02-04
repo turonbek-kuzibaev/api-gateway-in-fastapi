@@ -1,6 +1,6 @@
 # API Gateway in FastAPI
 
-A production-ready, Kong-like API gateway built with FastAPI featuring plugin architecture, load balancing, circuit breaker, health checks, and an Admin API.
+A production-ready, Kong API gateway built with FastAPI featuring plugin architecture, load balancing, circuit breaker, health checks, and an Admin API.
 
 ## Features
 
