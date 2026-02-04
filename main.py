@@ -38,7 +38,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="API Gateway",
-    description="Kong-like API Gateway built with FastAPI",
+    description="Kong API Gateway built with FastAPI",
     version="1.0.0",
     lifespan=lifespan,
     docs_url="/gateway/docs",
